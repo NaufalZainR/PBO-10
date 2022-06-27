@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Piramida Cholula",
+        "lokasi": "Meksiko",
+        "image": "piramida-cholula.jpg" 
+    },
+    {
+        "nama": "Piramida Giza",
+        "lokasi": "Mesir",
+        "image": "piramida-giza.jpg"
+    },
+    {
+        "nama": "Piramida Khafre",
+        "lokasi": "Mesir",
+        "image": "piramida-khafre.jpg"
+    },
+    {
+        "nama": "Piramida Luxor",
+        "lokasi": "Las Vegas, Amerika",
+        "image": "piramida-luxor.jpg"
+    }
+]
